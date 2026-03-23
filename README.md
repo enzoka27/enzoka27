@@ -4,14 +4,14 @@
 
 **SAD student | Back-end**
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Pedro%20Jardim%20Braz-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-jardim-braz](https://www.linkedin.com/in/enzo-brandão-toledo-simões-0b8754350/))
-[![Gmail] for contact: enzobtsimoes@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Brandão%20Toledo%20Simões-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/enzo-brandão-toledo-simões-0b8754350/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-enzobtsimoes%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:enzobtsimoes@gmail.com)
+
 
 </div>
 
 ---
-
-### About Me
 
 ## About Me
 
